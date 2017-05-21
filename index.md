@@ -1,9 +1,9 @@
 
 <style>
- @import url(https://fonts.googleapis.com/css?family=BTabassom);
+ @import url(https://fonts.googleapis.com/css?family=B-Tabassom);
 div {
 
-font-family: 'BTabassom';
+font-family: 'B-Tabassom';
 font-size: 1.2em
 color: brown;
 }
