@@ -3,6 +3,7 @@ title: Responsive Images
 <style>
 .body {
     font-family:Tahoma;
+    color: red;
 }
 </style>
 
