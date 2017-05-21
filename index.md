@@ -1,12 +1,13 @@
 
 <style>
- @import url(https://fonts.googleapis.com/css?family=Katibeh);
+ @import url(https://fonts.googleapis.com/css?family=BNazanin);
 div {
-font-family: 'Katibeh', cursive;
+font-family: 'BNazanin', cursive;
 color: blue;
 }
-# By Sepide Sarajian
+
 </style>
+# By Sepide Sarajian
 <div>
 <p style="font-size: 1.5em;" dir="rtl">برای صفحه های مختلف به استایل های مختلفی نیاز داریم که باعث می شوند صفحه های وبی که می سازیم زیباتر شوند و استفاده از آن ها راحت تر باشد. برای این کار ما صفحات را ریسپانسیو می کنیم که یکی از قسمت های آن تصویر های ریسپانسیو است. برای ریسپانسیو کردن تصویر ها باید به ابعاد دستگاه، ابعاد تصویر و رزولوشن صفحه ی دستگاه توجه نمود.
 </p>
