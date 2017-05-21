@@ -4,8 +4,7 @@
 div {
 
 font-family: 'Harmattan';
-font-size: 1.2em
-color: red;
+font-size: 1.2em;
 }
 
 </style>
