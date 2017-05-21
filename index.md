@@ -1,6 +1,9 @@
+
 <style>
+ @import url(https://fonts.googleapis.com/css?family=Katibeh);
 div {
-    color: red;
+font-family: 'Katibeh', cursive;
+color: blue;
 }
 # By Sepide Sarajian
 </style>
