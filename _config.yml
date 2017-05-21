@@ -1,8 +1,2 @@
 theme: jekyll-theme-merlot
 title: Responsive Images
-<style>
-.body {
-    color: red;
-}
-</style>
-
