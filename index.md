@@ -1,11 +1,11 @@
 
 <style>
- @import url(https://fonts.googleapis.com/css?family=BNazanin);
+ @import url(https://fonts.googleapis.com/css?family=BTabassom);
 div {
 
-font-family: 'BNazanin';
+font-family: 'BTabassom';
 font-size: 1.2em
-color: blue;
+color: brown;
 }
 
 </style>
