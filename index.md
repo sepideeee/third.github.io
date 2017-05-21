@@ -1,8 +1,3 @@
-<style>
-.body {
-    font-family:Tahoma;
-}
-</style>
 
 # By Sepide Sarajian
 
